@@ -10,7 +10,7 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 To start setting up the project
 Step 1: Clone the repo
 
-git clone https://github.com/trulymittal/chat-socket.io.git
+git clone https://github.com/alsonmathias/chat-assistant
 Step 2: cd into the cloned repo and run:
 
 npm install
@@ -20,10 +20,3 @@ npm run dev
 Step 4: Start the chat app
 
 npm start
-Author
-Truly Mittal
-Contribute
-You can fork this repo and send me a PR.
-
-License
-This project is licensed under the MIT License.
